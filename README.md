@@ -15,7 +15,7 @@ To run the application locally, you will need:
 3. Maven
 
 ## Installation
-1. Clone the repository: git clone `https://github.com/your-username/item-management.git`
+1. Clone the repository: git clone `https://github.com/Nandivaleamol/hostbuddy-inc.git`
 2. Install dependencies:
 3. Frontend: cd frontend && npm install
 4. Backend: cd backend && mvn install
