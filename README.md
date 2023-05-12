@@ -1,4 +1,4 @@
-# hItem Management Web Application
+# Item Management Web Application
 This is a web application built with ReactJS and Java Spring Boot that allows users to manage a list of items.
 
 ## Features
